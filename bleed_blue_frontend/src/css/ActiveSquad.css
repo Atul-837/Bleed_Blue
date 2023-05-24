@@ -1,0 +1,17 @@
+.players{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px !important;
+    justify-content: center;
+}
+
+.player-card{
+    min-height: 360px !important;
+    width: 240px !important;
+    color: rgb(152, 203, 248);
+    margin: 20px;
+}
+
+.player-image{
+    height: 250px;
+}

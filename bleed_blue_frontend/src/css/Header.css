@@ -1,0 +1,24 @@
+.logo{
+    max-height: 40px;
+    margin-left: 150px;
+    margin-right: 250px;
+}
+
+.navbar{
+    height: 100px;
+    padding: 10px !important;
+}
+
+.left-side{
+    justify-content: flex-end;
+}
+
+
+
+.nav-link{
+    color: #b1d5f7 !important;
+    font-size: large !important;
+    font-weight: 300 !important;
+    margin-left: 30px;
+    margin-right: 30px;
+}
