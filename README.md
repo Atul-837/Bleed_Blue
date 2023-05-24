@@ -1,4 +1,4 @@
-# WE BLEED BLUE : SLANG OF INDIAN CRICKET TEAM
+# WE BLEED BLUE : INDIAN CRICKET TEAM
 
 ## TO RUN THE APPLICATION:
 Make sure you have these prerequisites:
