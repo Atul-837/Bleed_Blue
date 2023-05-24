@@ -1,0 +1,17 @@
+#spring:
+#  data:
+#    mongodb:
+#      database: cricket_db
+#      port: 27017
+#      authentication-database: admin
+#      username: bleed_blue
+#      password: cricket
+#      host: localhost
+#
+##
+##  application:
+##    name: cricket_application
+#server:
+#  port: 8090
+
+
