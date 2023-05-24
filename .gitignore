@@ -31,3 +31,27 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+###frontend ignores###
+# dependencies
+/bleed_blue_frontend/node_modules
+/bleed_blue_frontend/.pnp
+/bleed_blue_frontend.pnp.js
+
+# testing
+/bleed_blue_frontend/coverage
+
+# production
+/bleed_blue_frontend/build
+
+# misc
+/bleed_blue_frontend.DS_Store
+/bleed_blue_frontend.env.local
+/bleed_blue_frontend.env.development.local
+/bleed_blue_frontend.env.test.local
+/bleed_blue_frontend.env.production.local
+
+/bleed_blue_frontendnpm-debug.log*
+/bleed_blue_frontendyarn-debug.log*
+/bleed_blue_frontendyarn-error.log*
