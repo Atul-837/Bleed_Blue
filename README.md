@@ -6,12 +6,12 @@ Make sure you have these prerequisites:
 - JAVA 19
 - MAVEN
 
-
 ## IF THE PROJECT IS ALREADY BUILD:
 You need to deploy the docker containers only with the command:
 ``
 docker compose -f "docker-compose.yaml" up -d
 ``
+It will start the backend, frontend and create a database for the application which is MongoDB.
 
 ### To build the backend project:
 In the main directory:
